@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitDemoAppApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello GitHub");
+		System.out.println("Welcome to GitHub");
 		SpringApplication.run(GitDemoAppApplication.class, args);
 	}
 
